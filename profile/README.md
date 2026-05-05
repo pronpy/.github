@@ -17,6 +17,19 @@ SexySyntax is a public GitHub organization for API projects, automation tools, d
 | [syntax](https://github.com/sexysyntax/syntax) | Public examples, docs, and starter code for the organization. | Active |
 | [.github](https://github.com/sexysyntax/.github) | Organization profile, shared community docs, and GitHub defaults. | Active |
 
+## Community
+
+Start here: [Welcome to SexySyntax](https://github.com/orgs/sexysyntax/discussions/1)
+
+| Topic | Purpose |
+| --- | --- |
+| [Announcements](https://github.com/orgs/sexysyntax/discussions/categories/announcements) | Official updates from maintainers |
+| [General](https://github.com/orgs/sexysyntax/discussions/categories/general) | Open discussion and team coordination |
+| [Ideas](https://github.com/orgs/sexysyntax/discussions/categories/ideas) | Feature requests and roadmap suggestions |
+| [Polls](https://github.com/orgs/sexysyntax/discussions/categories/polls) | Quick votes and community decisions |
+| [Q&A](https://github.com/orgs/sexysyntax/discussions/categories/q-a) | Questions that need clear answers |
+| [Show and tell](https://github.com/orgs/sexysyntax/discussions/categories/show-and-tell) | Demos, builds, launches, and experiments |
+
 ## Top Languages
 
 Current public code language mix across active project repositories:

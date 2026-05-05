@@ -4,5 +4,6 @@ This repository controls the public GitHub organization profile for [SexySyntax]
 
 - Organization profile: [profile/README.md](profile/README.md)
 - Identity: part of the SHNWAZ DEV developer ecosystem
+- Organization discussions: https://github.com/orgs/sexysyntax/discussions
 - Main organization: https://github.com/sexysyntax
 - Admin: https://github.com/shnwazdeveloper
