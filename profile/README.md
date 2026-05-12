@@ -16,7 +16,8 @@ API experiments, automation tools, and developer utilities from the SHNWAZ DEV e
 
 ## Top Languages
 
-CSS · HTML · JavaScript · TypeScript · Dart · Assembly · LabVIEW · COBOL
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 [Full stack](https://github.com/pronpy/pron/blob/main/LANGUAGES.md)
 
