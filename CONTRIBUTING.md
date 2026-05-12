@@ -1,6 +1,6 @@
-# Contributing to SexySyntax
+# Contributing to Pronpy
 
-Thank you for helping improve SexySyntax.
+Thank you for helping improve Pronpy.
 
 ## How to Contribute
 

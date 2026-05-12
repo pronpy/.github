@@ -3,7 +3,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Use this category for official SexySyntax updates. Keep the post factual, dated, and linked to the source repository, release, pull request, or deployment.
+        Use this category for official Pronpy updates. Keep the post factual, dated, and linked to the source repository, release, pull request, or deployment.
   - type: input
     id: summary
     attributes:
@@ -25,6 +25,6 @@ body:
     attributes:
       label: Related links
       description: Add repository, pull request, release, deployment, or docs links.
-      placeholder: "- https://github.com/sexysyntax/syntax"
+      placeholder: "- https://github.com/pronpy/syntax"
     validations:
       required: false

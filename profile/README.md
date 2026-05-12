@@ -1,36 +1,36 @@
-# SexySyntax
+# Pronpy
 
 Part of the SHNWAZ DEV developer ecosystem.
 
-SexySyntax is a public GitHub organization for API projects, automation tools, developer utilities, and small experiments that are useful to builders.
+Pronpy is a public GitHub organization for API projects, automation tools, developer utilities, and small experiments that are useful to builders.
 
 <p align="left">
-  <a href="https://github.com/sexysyntax"><img alt="GitHub organization" src="https://img.shields.io/badge/GitHub-sexysyntax-181717?style=flat-square&logo=github"></a>
+  <a href="https://github.com/pronpy"><img alt="GitHub organization" src="https://img.shields.io/badge/GitHub-pronpy-181717?style=flat-square&logo=github"></a>
   <a href="https://shnwazdeveloper.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-SHNWAZ_DEV-0A66C2?style=flat-square"></a>
-  <a href="https://github.com/sexysyntax/syntax"><img alt="Main repository" src="https://img.shields.io/badge/Main_repo-syntax-2EA44F?style=flat-square"></a>
+  <a href="https://github.com/pronpy/syntax"><img alt="Main repository" src="https://img.shields.io/badge/Main_repo-syntax-2EA44F?style=flat-square"></a>
 </p>
 
 ## What We Build
 
 | Repository | Focus | Status |
 | --- | --- | --- |
-| [syntax](https://github.com/sexysyntax/syntax) | Public examples, docs, and starter code for the organization. | Active |
-| [.github](https://github.com/sexysyntax/.github) | Organization profile, shared community docs, and GitHub defaults. | Active |
+| [syntax](https://github.com/pronpy/syntax) | Public examples, docs, and starter code for the organization. | Active |
+| [.github](https://github.com/pronpy/.github) | Organization profile, shared community docs, and GitHub defaults. | Active |
 
 ## Community
 
-Start here: [Welcome to SexySyntax](https://github.com/orgs/sexysyntax/discussions/1)
+Start here: [Welcome to Pronpy](https://github.com/orgs/pronpy/discussions/1)
 
-Read before posting: [Discussion guide](https://github.com/sexysyntax/.github/blob/main/DISCUSSIONS.md), [contributing rules](https://github.com/sexysyntax/.github/blob/main/CONTRIBUTING.md), and [code of conduct](https://github.com/sexysyntax/.github/blob/main/CODE_OF_CONDUCT.md).
+Read before posting: [Discussion guide](https://github.com/pronpy/.github/blob/main/DISCUSSIONS.md), [contributing rules](https://github.com/pronpy/.github/blob/main/CONTRIBUTING.md), and [code of conduct](https://github.com/pronpy/.github/blob/main/CODE_OF_CONDUCT.md).
 
 | Topic | Purpose |
 | --- | --- |
-| [Announcements](https://github.com/orgs/sexysyntax/discussions/categories/announcements) | Official updates from maintainers |
-| [General](https://github.com/orgs/sexysyntax/discussions/categories/general) | Open discussion and team coordination |
-| [Ideas](https://github.com/orgs/sexysyntax/discussions/categories/ideas) | Feature requests and roadmap suggestions |
-| [Polls](https://github.com/orgs/sexysyntax/discussions/categories/polls) | Quick votes and community decisions |
-| [Q&A](https://github.com/orgs/sexysyntax/discussions/categories/q-a) | Questions that need clear answers |
-| [Show and tell](https://github.com/orgs/sexysyntax/discussions/categories/show-and-tell) | Demos, builds, launches, and experiments |
+| [Announcements](https://github.com/orgs/pronpy/discussions/categories/announcements) | Official updates from maintainers |
+| [General](https://github.com/orgs/pronpy/discussions/categories/general) | Open discussion and team coordination |
+| [Ideas](https://github.com/orgs/pronpy/discussions/categories/ideas) | Feature requests and roadmap suggestions |
+| [Polls](https://github.com/orgs/pronpy/discussions/categories/polls) | Quick votes and community decisions |
+| [Q&A](https://github.com/orgs/pronpy/discussions/categories/q-a) | Questions that need clear answers |
+| [Show and tell](https://github.com/orgs/pronpy/discussions/categories/show-and-tell) | Demos, builds, launches, and experiments |
 
 ## Top Languages
 
@@ -38,15 +38,17 @@ Current public code language mix across active project repositories:
 
 | Language | Share | Source |
 | --- | ---: | --- |
-| CSS | 44.8% | [syntax](https://github.com/sexysyntax/syntax) |
-| HTML | 41.7% | [syntax](https://github.com/sexysyntax/syntax) |
-| JavaScript | 13.5% | [syntax](https://github.com/sexysyntax/syntax) |
+| CSS | 44.8% | [syntax](https://github.com/pronpy/syntax) |
+| HTML | 41.7% | [syntax](https://github.com/pronpy/syntax) |
+| JavaScript | 13.5% | [syntax](https://github.com/pronpy/syntax) |
 
 ## Team
 
 | Member | Role |
 | --- | --- |
 | [shnwazdeveloper](https://github.com/shnwazdeveloper) | Organization admin and maintainer |
+| [clyxudev](https://github.com/clyxudev) | Organization member |
+| [clyxdev](https://github.com/clyxdev) | Organization member |
 | [SHNWAZX](https://github.com/SHNWAZX) | Organization member |
 | [harryxc515](https://github.com/harryxc515) | Organization member |
 
@@ -71,5 +73,5 @@ Use this checklist before calling a project or task complete:
 ## Links
 
 - Website: https://shnwazdeveloper.github.io/
-- Organization: https://sexysyntax.github.io/syntax
+- Organization: https://pronpy.github.io/syntax
 - Admin: https://github.com/shnwazdeveloper

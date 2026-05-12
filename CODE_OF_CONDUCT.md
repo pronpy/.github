@@ -1,6 +1,6 @@
 # Code of Conduct
 
-SexySyntax is part of the SHNWAZ DEV developer ecosystem. We want the community to be useful, welcoming, and safe for people who are building together.
+Pronpy is part of the SHNWAZ DEV developer ecosystem. We want the community to be useful, welcoming, and safe for people who are building together.
 
 ## Expected Behavior
 

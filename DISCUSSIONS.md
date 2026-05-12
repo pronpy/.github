@@ -1,6 +1,6 @@
-# SexySyntax Discussion Guide
+# Pronpy Discussion Guide
 
-Welcome to SexySyntax Discussions. This is the community space for the SHNWAZ DEV developer ecosystem: public APIs, automation tools, website work, docs, security notes, release planning, and project ideas.
+Welcome to Pronpy Discussions. This is the community space for the SHNWAZ DEV developer ecosystem: public APIs, automation tools, website work, docs, security notes, release planning, and project ideas.
 
 The goal is simple: keep every post clear, useful, respectful, and easy for maintainers to act on.
 
@@ -49,6 +49,6 @@ The goal is simple: keep every post clear, useful, respectful, and easy for main
 
 ## Welcome Message
 
-Welcome to SexySyntax. If you are here to build, learn, ask, suggest, or share something useful, you are in the right place.
+Welcome to Pronpy. If you are here to build, learn, ask, suggest, or share something useful, you are in the right place.
 
 Choose the best category, write clearly, and help the team understand what should happen next. Good discussions make the organization easier to maintain and help new members join the work faster.
