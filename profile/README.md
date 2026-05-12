@@ -1,19 +1,29 @@
+<div align="center">
+
 # Pronpy
 
-Part of the SHNWAZ DEV developer ecosystem.
+API experiments, automation tools, and small developer utilities from the SHNWAZ DEV ecosystem.
 
-Pronpy is a public GitHub organization for APIs, automation tools, developer utilities, and small experiments.
+[Website](https://shnwazdeveloper.github.io/) | [Docs](https://pronpy.github.io/syntax/) | [Discussions](https://github.com/orgs/pronpy/discussions)
 
-[Website](https://shnwazdeveloper.github.io/) · [Organization site](https://pronpy.github.io/syntax/) · [Discussions](https://github.com/orgs/pronpy/discussions)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</div>
+
+## Main Repo
+
+[pron](https://github.com/pronpy/pron) is the starter home for Pronpy docs, workflows, and community setup.
 
 ## Projects
 
-- [pron](https://github.com/pronpy/pron): starter repository with docs, Actions, and community setup.
-- [syntax](https://github.com/pronpy/syntax): public examples, docs, and starter code.
+- [syntax](https://github.com/pronpy/syntax): examples, docs, and static site.
 - [.github](https://github.com/pronpy/.github): organization profile and shared defaults.
 
 ## Community
 
-Open an issue, start a discussion, or send a focused pull request.
+Start a discussion, open an issue, or send a focused pull request.
 
 Maintainer: [shnwazdeveloper](https://github.com/shnwazdeveloper)
