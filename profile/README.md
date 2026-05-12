@@ -2,7 +2,6 @@
 
 # ᴘʀᴏɴᴘʏ
 
-**ᴇɴ sᴜᴄᴄᴇssғᴜʟʟ**
 
 API experiments, automation tools, and developer utilities from the SHNWAZ DEV ecosystem.
 
