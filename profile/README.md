@@ -2,7 +2,7 @@
 
 # ᴘʀᴏɴᴘʏ
 
-API experiments, automation tools, and developer utilities from the SHNWAZ DEV ecosystem.
+public APIs, automation tools, and developer experiments.
 
 [Website](https://shnwazdeveloper.github.io/) | [Main Repo](https://github.com/pronpy/pron) | [Projects](https://github.com/orgs/pronpy/projects) | [Packages](https://github.com/orgs/pronpy/packages) | [Discussions](https://github.com/orgs/pronpy/discussions)
 
