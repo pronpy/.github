@@ -2,8 +2,6 @@
 
 # ᴘʀᴏɴᴘʏ
 
-**ᴇɴ sᴜᴄᴄᴇssғᴜʟʟ**
-
 API experiments, automation tools, and developer utilities from the SHNWAZ DEV ecosystem.
 
 [Website](https://shnwazdeveloper.github.io/) | [Main Repo](https://github.com/pronpy/pron) | [Projects](https://github.com/orgs/pronpy/projects) | [Packages](https://github.com/orgs/pronpy/packages) | [Discussions](https://github.com/orgs/pronpy/discussions)
@@ -39,7 +37,7 @@ API experiments, automation tools, and developer utilities from the SHNWAZ DEV e
 
 - Discussions enabled
 - GitHub Actions passing
-- GitHub App created: [pronpy-pron](https://github.com/apps/pronpy)
+- GitHub App created: [pronpy](https://github.com/apps/pronpy)
 
 ## Community
 
