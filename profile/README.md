@@ -39,7 +39,7 @@ API experiments, automation tools, and developer utilities from the SHNWAZ DEV e
 
 - Discussions enabled
 - GitHub Actions passing
-- GitHub App created: [pronpy-pron](https://github.com/apps/pronpy-pron)
+- GitHub App created: [pronpy-pron](https://github.com/apps/pronpy)
 
 ## Community
 
